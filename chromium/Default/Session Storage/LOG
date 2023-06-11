@@ -1,0 +1,5 @@
+2023/06/11-00:54:45.674 3 Creating DB /home/noah/.config/chromium/Default/Session Storage since it was missing.
+2023/06/11-00:54:45.676 3 Reusing MANIFEST /home/noah/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/06/11-07:50:11.936 3 Level-0 table #5: started
+2023/06/11-07:50:11.944 3 Level-0 table #5: 18546 bytes OK
+2023/06/11-07:50:11.947 3 Delete type=0 #3
